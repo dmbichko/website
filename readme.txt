@@ -35,3 +35,4 @@ License :
 **For more details contact: author (webthemez@gmail.com)
 test bichko
 GCP function
+error
