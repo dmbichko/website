@@ -1,5 +1,5 @@
 # This CloudBuild will be triggered by push to staging branch
-# ver 1.0.0.0
+# ver 1.0.0
 
 steps:
 - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
